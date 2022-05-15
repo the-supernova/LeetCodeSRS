@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "9bbcc539a489756f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11382a7764e703fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D11/Q7.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6380fdacf5c58fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b6f25a6c16eb201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44d6a34afc3ef40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ff3b0a80b270c92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3467a33d2a9c97d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1e1892bb39ea79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9cbd8beb0eb7bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D11/Q7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d536f2bb46f4a76",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11382a7764e703fb",
+  "lastOpenFiles": [
+    "D11/Q7.md",
+    "D11/Q6.md",
+    "D1/Q6.md",
+    "D1/Q5.md",
+    "D1/Q4.md",
+    "D1/Q3.md",
+    "D1/Q2.md",
+    "D1/Q1.md",
+    "D11/Q2.md",
+    "D11/Q3.md"
+  ]
+}
