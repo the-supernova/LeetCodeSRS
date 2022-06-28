@@ -7,11 +7,9 @@
         "id": "11382a7764e703fb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "D23/Q9.md",
-            "mode": "source",
-            "source": false
+            "file": "D24/Pasted image 20220628175437.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D23/Q9.md",
+                "file": "D24/Pasted image 20220628175437.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +95,15 @@
   },
   "active": "11382a7764e703fb",
   "lastOpenFiles": [
-    "D23/Q9.md",
-    "D23/Q8.md",
-    "D23/Q7.md",
-    "D23/Q6.md",
-    "D23/Q5.md",
-    "D23/Q4.md",
-    "D23/Q3.md",
-    "D23/Q2.md",
-    "D23/Q1.md",
-    "D22/Q4.md"
+    "D24/Pasted image 20220628175437.png",
+    "D24/Pasted image 20220628170753.png",
+    "D24/Pasted image 20220628165052.png",
+    "D24/Pasted image 20220628131107.png",
+    "D24/Pasted image 20220628124222.png",
+    "D24/Pasted image 20220627222555.png",
+    "D24/Pasted image 20220627221730.png",
+    "D24/Pasted image 20220627203730.png",
+    "D24/Pasted image 20220627203046.png",
+    "D24/Pasted image 20220627200515.png"
   ]
 }
